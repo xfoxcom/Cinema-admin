@@ -5,7 +5,6 @@ import java.util.Scanner;
 
         public static void main(String[] args) {
 
-            // Hello fromIDE
             Scanner scr = new Scanner(System.in);
 
             System.out.println("Enter the number of rows: ");
